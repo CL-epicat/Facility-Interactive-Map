@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HealthCareFacilities_copy_cd15a699_359b_4f84_ac16_83f89de751bc",
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "qc_id": 53, "id": 321, "facility_type": "Primary care", "facility_owner": "CHOA", "facility_full": "CHOA - Primary care", "facility_full2": "Primary care - CHOA", "facility_name": "Center for Pediatric Wellness", "facility_address": "6000 Lake Forrest Drive NW", "zip_code": 30328, "msm": false, "coordinate": "-84.067526346903,33.838631061245", "x": -84.06752635, "y": 33.83863106 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.067526, 33.838631 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 329, "id": 322, "facility_type": "Primary care", "facility_owner": "CHOA", "facility_full": "CHOA - Primary care", "facility_full2": "Primary care - CHOA", "facility_name": "Hughes Spalding Primary care Clinic", "facility_address": "35 Jessie Hill Jr. Drive SE", "zip_code": 30303, "msm": false, "coordinate": "-84.592039220562,33.434847082533", "x": -84.59203922, "y": 33.43484708 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.592039, 33.434847 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 337, "id": 323, "facility_type": "Primary care", "facility_owner": "CHOA", "facility_full": "CHOA - Primary care", "facility_full2": "Primary care - CHOA", "facility_name": "Snapfinger Woods Pediatrics", "facility_address": "5008 Snapfinger Woods Drive", "zip_code": 30035, "msm": false, "coordinate": "-84.619194935592,33.787867956627", "x": -84.61919494, "y": 33.78786796 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.619195, 33.787868 ] ] } }
+]
+}

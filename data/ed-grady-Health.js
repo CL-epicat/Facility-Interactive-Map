@@ -1,0 +1,9 @@
+window.__layers = window.__layers || {}; window.__layers["ed-grady-Health"] = {
+"type": "FeatureCollection",
+"name": "HealthCareFacilities_01f68cf8_d8b1_4b6f_89d7_07319e655591",
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "qc_id": 224, "id": 73, "facility_type": "ED", "facility_owner": "Grady", "facility_full": "Grady - ED", "facility_full2": "ED - Grady", "facility_name": "Grady Hospital Emergency Room", "facility_address": "80 Jesse Hill Jr Dr SE", "zip_code": 30303, "msm": false, "coordinate": "-84.38014523814,33.754822304496", "x": -84.38014524, "y": 33.7548223 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.380145, 33.754822 ] ] } }
+]
+}
+;

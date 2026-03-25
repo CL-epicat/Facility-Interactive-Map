@@ -1,0 +1,13 @@
+window.__layers = window.__layers || {}; window.__layers["ed-emory-Health"] = {
+"type": "FeatureCollection",
+"name": "HealthCareFacilities_a4009b81_4491_4c48_a36a_16200def4828",
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "qc_id": 0, "id": 350, "facility_type": "ED", "facility_owner": "Emory", "facility_full": "Emory - ED", "facility_full2": "ED - Emory", "facility_name": "Emory University Hospital Midtown", "facility_address": "550 W Peachtree St NW", "zip_code": 30308, "msm": false, "coordinate": "-81.971615689824,33.491844837566", "x": -81.97161569, "y": 33.49184484 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -81.971616, 33.491845 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 124, "id": 353, "facility_type": "ED", "facility_owner": "Emory", "facility_full": "Emory - ED", "facility_full2": "ED - Emory", "facility_name": "Emory Saint Joseph's Hospital Emergency Room", "facility_address": "5665 Peachtree Dunwoody Rd", "zip_code": 30342, "msm": false, "coordinate": "-84.239309378432,33.503366201528", "x": -84.23930938, "y": 33.5033662 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.239309, 33.503366 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 196, "id": 351, "facility_type": "ED", "facility_owner": "Emory", "facility_full": "Emory - ED", "facility_full2": "ED - Emory", "facility_name": "Emory University Hospital Emergency Room", "facility_address": "1364 Clifton Rd NE", "zip_code": 30322, "msm": false, "coordinate": "-84.345283000713,34.037756474423", "x": -84.345283, "y": 34.03775647 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.345283, 34.037756 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 228, "id": 354, "facility_type": "ED", "facility_owner": "Emory", "facility_full": "Emory - ED", "facility_full2": "ED - Emory", "facility_name": "Emory Hillandale Hospital Emergency Room", "facility_address": "2801 Dekalb Medical Pkwy", "zip_code": 30058, "msm": false, "coordinate": "-84.382603800898,33.853586056203", "x": -84.3826038, "y": 33.85358606 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.382604, 33.853586 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 332, "id": 352, "facility_type": "ED", "facility_owner": "Emory", "facility_full": "Emory - ED", "facility_full2": "ED - Emory", "facility_name": "Emory Decatur Hospital Emergency Room", "facility_address": "2701 N Decatur Rd", "zip_code": 30033, "msm": false, "coordinate": "-84.60115890365,33.856977079908", "x": -84.6011589, "y": 33.85697708 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.601159, 33.856977 ] ] } }
+]
+}
+;

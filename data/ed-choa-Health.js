@@ -1,0 +1,11 @@
+window.__layers = window.__layers || {}; window.__layers["ed-choa-Health"] = {
+"type": "FeatureCollection",
+"name": "Health_Care_Facilities_0299db3f_dba6_40b5_a5f1_40c936255307",
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "qc_id": 115, "id": 319, "facility_type": "ED", "facility_owner": "CHOA", "facility_full": "CHOA - ED", "facility_full2": "ED - CHOA", "facility_name": "Arthur M. Blank Hospital Emergency Room", "facility_address": "2220 N Druid Hills Rd NE", "zip_code": 30329, "msm": false, "coordinate": "-84.218261819526,33.976301671566", "x": -84.21826182, "y": 33.97630167 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.218262, 33.976302 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 265, "id": 320, "facility_type": "ED", "facility_owner": "CHOA", "facility_full": "CHOA - ED", "facility_full2": "ED - CHOA", "facility_name": "Emergency Dept - Scottish Rite Hospital", "facility_address": "1001 Johnson Ferry Rd NE", "zip_code": 30342, "msm": false, "coordinate": "-84.457594708324,33.870403332384", "x": -84.45759471, "y": 33.87040333 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.457595, 33.870403 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 356, "id": 318, "facility_type": "ED", "facility_owner": "CHOA", "facility_full": "CHOA - ED", "facility_full2": "ED - CHOA", "facility_name": "Hughes Spalding Hospital Emergency Room", "facility_address": "38 Jesse Hill Jr Dr SE", "zip_code": 30303, "msm": false, "coordinate": "-84.753895512864,33.359277616663", "x": -84.75389551000001, "y": 33.35927762 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.753896, 33.359278 ] ] } }
+]
+}
+;

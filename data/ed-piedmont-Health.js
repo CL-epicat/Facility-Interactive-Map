@@ -1,0 +1,13 @@
+window.__layers = window.__layers || {}; window.__layers["ed-piedmont-Health"] = {
+"type": "FeatureCollection",
+"name": "HealthCareFacilities_4a13e1ff_099b_49c3_8c86_9b452aefd0ab",
+"xy_coordinate_resolution": 1e-06,
+"features": [
+{ "type": "Feature", "properties": { "qc_id": 15, "id": 154, "facility_type": "ED", "facility_owner": "Piedmont", "facility_full": "Piedmont - ED", "facility_full2": "ED - Piedmont", "facility_name": "Piedmont Rockdale Emergency Room", "facility_address": "1412 Milstead Ave", "zip_code": 30012, "msm": false, "coordinate": "-83.921683784874,34.080738661263", "x": -83.92168378, "y": 34.08073866 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.921684, 34.080739 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 19, "id": 153, "facility_type": "ED", "facility_owner": "Piedmont", "facility_full": "Piedmont - ED", "facility_full2": "ED - Piedmont", "facility_name": "Piedmont Fayette Emergency Room", "facility_address": "1255 Highway 54 West", "zip_code": 30214, "msm": false, "coordinate": "-83.937017543723,33.880392446316", "x": -83.93701754, "y": 33.88039245 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -83.937018, 33.880392 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 97, "id": 152, "facility_type": "ED", "facility_owner": "Piedmont", "facility_full": "Piedmont - ED", "facility_full2": "ED - Piedmont", "facility_name": "Piedmont Henry Emergency Room", "facility_address": "1133 Eagles Landing Pkwy", "zip_code": 30281, "msm": false, "coordinate": "-84.167732765656,34.004171121904", "x": -84.16773277, "y": 34.00417112 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.167733, 34.004171 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 388, "id": 151, "facility_type": "ED", "facility_owner": "Piedmont", "facility_full": "Piedmont - ED", "facility_full2": "ED - Piedmont", "facility_name": "Piedmont Atlanta Emergency Room", "facility_address": "1968 Peachtree Rd NW", "zip_code": 30309, "msm": false, "coordinate": " -84.39533461741746, 33.80854414051004", "x": -84.395334617417461, "y": 33.808544140510037 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.395335, 33.808544 ] ] } },
+{ "type": "Feature", "properties": { "qc_id": 389, "id": 155, "facility_type": "ED", "facility_owner": "Piedmont", "facility_full": "Piedmont - ED", "facility_full2": "ED - Piedmont", "facility_name": "Piedmont Newton Emergency Room", "facility_address": "745 Poplar Rd", "zip_code": 30265, "msm": false, "coordinate": " -84.75487866545275, 33.35797706040444", "x": -84.75487866545275, "y": 33.357977060404437 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -84.754879, 33.357977 ] ] } }
+]
+}
+;
